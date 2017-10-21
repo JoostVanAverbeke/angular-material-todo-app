@@ -1,6 +1,6 @@
 import { AngularMaterialTodoAppPage } from './app.po';
 
-describe('angular-material-todo-app App', () => {
+describe('angular-material-todos-app App', () => {
   let page: AngularMaterialTodoAppPage;
 
   beforeEach(() => {
